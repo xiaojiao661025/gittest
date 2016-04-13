@@ -1,0 +1,12 @@
+# Windows:
+*.[oa]
+*~
+!lib.a
+/TODO
+build/
+doc/*.txt
+
+# My configurations:
+db.ini
+deploy_key_rsa
+
